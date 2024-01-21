@@ -4,12 +4,7 @@
       $( function() {
         $( "#draggable" ).draggable();
       } );
-    
-      $( function() {
-        $( "#datepicker" ).datepicker();
-      } );
-    
-    
+    
     
     
         window.onload = init;
